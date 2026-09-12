@@ -9,4 +9,4 @@ Los datos fueron descargados de estos lugars:
 
 **Paquetes de software**
 
-Este proyecto usa R.
+Este proyecto usa R y los datos mtcars.
