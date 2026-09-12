@@ -10,3 +10,5 @@ Los datos fueron descargados de estos lugars:
 **Paquetes de software**
 
 Este proyecto usa R y los datos mtcars.
+
+Lo edito de nuevo.
